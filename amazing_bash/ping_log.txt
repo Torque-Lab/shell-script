@@ -1,0 +1,4 @@
+64 bytes from bom12s16-in-f14.1e100.net (142.250.192.78): icmp_seq=1 ttl=116 time=60.1 ms
+64 bytes from bom12s16-in-f14.1e100.net (142.250.192.78): icmp_seq=2 ttl=116 time=59.6 ms
+64 bytes from bom12s16-in-f14.1e100.net (142.250.192.78): icmp_seq=3 ttl=116 time=55.6 ms
+64 bytes from bom12s16-in-f14.1e100.net (142.250.192.78): icmp_seq=4 ttl=116 time=56.1 ms
