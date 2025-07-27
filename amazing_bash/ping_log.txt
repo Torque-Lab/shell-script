@@ -10,3 +10,7 @@
 64 bytes from hkg12s32-in-f14.1e100.net (142.250.207.78): icmp_seq=2 ttl=116 time=111 ms
 64 bytes from hkg12s32-in-f14.1e100.net (142.250.207.78): icmp_seq=3 ttl=116 time=97.1 ms
 64 bytes from hkg12s32-in-f14.1e100.net (142.250.207.78): icmp_seq=4 ttl=116 time=85.4 ms
+64 bytes from hkg12s32-in-f14.1e100.net (142.250.207.78): icmp_seq=1 ttl=116 time=97.5 ms
+64 bytes from hkg12s32-in-f14.1e100.net (142.250.207.78): icmp_seq=2 ttl=116 time=97.5 ms
+64 bytes from hkg12s32-in-f14.1e100.net (142.250.207.78): icmp_seq=3 ttl=116 time=98.8 ms
+64 bytes from hkg12s32-in-f14.1e100.net (142.250.207.78): icmp_seq=4 ttl=116 time=88.4 ms
